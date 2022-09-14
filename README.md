@@ -24,3 +24,9 @@ https://developing-on-aws-20220914.s3.ap-southeast-1.amazonaws.com/hello.html?re
 
  # Developing on AWS - Lab 2 (Java) - Develop Solutions Using Amazon S3
 http://lab2-notes-bucket-mc2035.s3-website.ap-southeast-2.amazonaws.com
+
+
+
+# Day 1 Session 2
+
+https://dev-polly.somethingskepper.com/
