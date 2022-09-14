@@ -9,3 +9,8 @@ student/student
 # AWS Certified Cloud Practitioner Official Practice Question Set
 
 https://awscertificationpractice.benchprep.com/app/aws-certified-cloud-practitioner-official-practice-question-set#exams/answers/89269991/10115251
+
+
+# AWS Storage
+
+https://cloud.netapp.com/blog/ebs-efs-amazons3-best-cloud-storage-system
