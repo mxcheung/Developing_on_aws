@@ -9,6 +9,7 @@ Developing on AWS
  eBook License Code for Developing on AWS 4.1 and 4.0 (EN): Student Digital Kit 3 Days
  
  ## Architecting on AWS
+ Architecting on AWS Lab Guide Version 6.7.3 
  * Use personal email
  
  
