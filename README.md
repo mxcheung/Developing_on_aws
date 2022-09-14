@@ -1,6 +1,12 @@
 # Developing_on_aws
 Developing on AWS
 
+# Amazon Web Services eBooK
+ evantage.gilmoreglobal.com 
+ * Use company email
+ eBook License Code for Developing on AWS 4.1 and 4.0 (EN): Student Digital Kit 3 Days
+ 
+
 # Day 1 Session 1
 http://pollynotes-pollynotesweb-1lbp038ts1mc5.s3-website-ap-southeast-2.amazonaws.com/
 student/student
