@@ -47,3 +47,5 @@ https://dev-polly.somethingskepper.com/
 Windows_Server-2019-English-Full-Base-2022.08.10
 
 ami-08e49cb12f5231fd8
+
+t3.xlarge
