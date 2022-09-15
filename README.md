@@ -45,3 +45,4 @@ http://lab2-notes-bucket-mc2035.s3-website.ap-southeast-2.amazonaws.com
 https://dev-polly.somethingskepper.com/
 
 Windows_Server-2019-English-Full-Base-2022.08.10
+ami-08e49cb12f5231fd8
