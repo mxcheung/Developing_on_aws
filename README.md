@@ -43,3 +43,5 @@ http://lab2-notes-bucket-mc2035.s3-website.ap-southeast-2.amazonaws.com
 # Day 1 Session 2
 
 https://dev-polly.somethingskepper.com/
+
+Windows_Server-2019-English-Full-Base-2022.08.10
