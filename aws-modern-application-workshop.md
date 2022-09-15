@@ -1,6 +1,3 @@
-aws-modern-application-workshop
-
-
 
 #  Build a Modern Application on AWS
 
