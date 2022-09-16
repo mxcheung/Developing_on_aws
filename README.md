@@ -51,6 +51,7 @@ ami-08e49cb12f5231fd8
 t3.xlarge
 
 guacamole - ami-0336d88ead51a9210
-
+           - amzn2-ami-hvm-2.0.20220805.0-x86_64-gp2
+           
 https://web-identity-federation-playground.s3.amazonaws.com/index.html
 
