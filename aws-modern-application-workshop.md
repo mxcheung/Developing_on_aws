@@ -30,3 +30,6 @@ https://cheungm-mythicalmysfits-20220914.s3.ap-southeast-1.amazonaws.com/index.h
 
 ec2-54-254-10-243.ap-southeast-1.compute.amazonaws.com
 fu8FP$bMB6=JARuKYSS4jR@M?c-p*O$d
+
+
+http://mysfits-nlb-37a666f340cc584b.elb.ap-southeast-1.amazonaws.com/mysfits
