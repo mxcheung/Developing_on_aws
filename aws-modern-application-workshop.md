@@ -34,4 +34,6 @@ fu8FP$bMB6=JARuKYSS4jR@M?c-p*O$d
 
 http://mysfits-nlb-37a666f340cc584b.elb.ap-southeast-1.amazonaws.com/mysfits
 
+http://mysfits-nlb-d64d10b8418b1cd8.elb.ap-southeast-1.amazonaws.com/mysfits
+
 ResourceInitializationError: unable to pull secrets or registry auth: execution resource retrieval failed: unable to retrieve ecr registry auth: service call has been retried 3 time(s): RequestError: send request failed caused by: Post https://api.ecr.ap-southeast-1.amazonaws.com/: dial tcp 52.119.186.109:443: i/o timeout
